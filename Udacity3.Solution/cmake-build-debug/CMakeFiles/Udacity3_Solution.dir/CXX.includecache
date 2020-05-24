@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedro/Dev/Pr_Cpp/Udacity3.Solution/main.cpp
+algorithm
+-
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+vector
+-
+test.cpp
+/Users/pedro/Dev/Pr_Cpp/Udacity3.Solution/test.cpp
+
+/Users/pedro/Dev/Pr_Cpp/Udacity3.Solution/test.cpp
+

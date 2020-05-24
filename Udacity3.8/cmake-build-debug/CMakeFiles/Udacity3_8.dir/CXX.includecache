@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedro/Dev/Pr_Cpp/Udacity3.8/main.cpp
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+vector
+-
+

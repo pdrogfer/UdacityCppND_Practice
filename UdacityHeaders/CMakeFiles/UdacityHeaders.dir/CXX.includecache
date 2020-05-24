@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedro/Dev/Pr_Cpp/UdacityHeaders/anothers.cpp
+iostream
+-
+
+/Users/pedro/Dev/Pr_Cpp/UdacityHeaders/anothers.h
+
+/Users/pedro/Dev/Pr_Cpp/UdacityHeaders/main.cpp
+iostream
+-
+anothers.h
+/Users/pedro/Dev/Pr_Cpp/UdacityHeaders/anothers.h
+

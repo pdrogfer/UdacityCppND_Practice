@@ -1,0 +1,6 @@
+#ifndef UDACITYHEADERS_ANOTHERS_H
+#define UDACITYHEADERS_ANOTHERS_H
+
+void anotherFunction();
+
+#endif //UDACITYHEADERS_ANOTHERS_H
