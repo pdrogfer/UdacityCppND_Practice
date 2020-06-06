@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_2.23/Sphere.h
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_2.23/main.cpp
+iostream
+-
+Sphere.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_2.23/Sphere.h
+

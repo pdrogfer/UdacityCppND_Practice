@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/UdacityEx_2.18/Pyramid.cpp
+stdexcept
+-
+Pyramid.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/UdacityEx_2.18/Pyramid.h
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/UdacityEx_2.18/Pyramid.h
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/UdacityEx_2.18/main.cpp
+iostream
+-
+cassert
+-
+stdexcept
+-
+Pyramid.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/UdacityEx_2.18/Pyramid.h
+

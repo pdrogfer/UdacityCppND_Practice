@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/UdacityEx_2_18.dir/main.cpp.o CMakeFiles/UdacityEx_2_18.dir/Pyramid.cpp.o  -o UdacityEx_2_18 

@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/UdacityEx_2.18
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/UdacityEx_2.18/cmake-build-debug
