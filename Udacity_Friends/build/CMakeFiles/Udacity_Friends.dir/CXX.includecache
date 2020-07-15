@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Friends/Rectangle.cpp
+Rectangle.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Friends/Rectangle.h
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Friends/Rectangle.h
+Square.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Friends/Square.h
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Friends/Square.cpp
+Square.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Friends/Square.h
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Friends/Square.h
+Rectangle.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Friends/Rectangle.h
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Friends/main.cpp
+iostream
+-
+assert.h
+-
+Square.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Friends/Square.h
+Rectangle.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Friends/Rectangle.h
+

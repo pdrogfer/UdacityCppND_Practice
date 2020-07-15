@@ -1,1 +1,1 @@
-/usr/bin/c++     CMakeFiles/Udacity_AdvancedOOP.dir/main.cpp.o  -o Udacity_AdvancedOOP 
+/usr/bin/c++  -g   CMakeFiles/Udacity_AdvancedOOP.dir/main.cpp.o CMakeFiles/Udacity_AdvancedOOP.dir/Vehicle.cpp.o CMakeFiles/Udacity_AdvancedOOP.dir/Car.cpp.o CMakeFiles/Udacity_AdvancedOOP.dir/PrivateCar.cpp.o CMakeFiles/Udacity_AdvancedOOP.dir/FriendCar.cpp.o  -o Udacity_AdvancedOOP 

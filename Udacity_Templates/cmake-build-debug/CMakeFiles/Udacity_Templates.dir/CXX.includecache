@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Templates/main.cpp
+cassert
+-
+iostream
+-
+sstream
+-
+

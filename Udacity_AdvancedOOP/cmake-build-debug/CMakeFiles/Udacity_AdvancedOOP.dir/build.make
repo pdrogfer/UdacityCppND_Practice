@@ -70,17 +70,77 @@ CMakeFiles/Udacity_AdvancedOOP.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Udacity_AdvancedOOP.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/main.cpp -o CMakeFiles/Udacity_AdvancedOOP.dir/main.cpp.s
 
+CMakeFiles/Udacity_AdvancedOOP.dir/Vehicle.cpp.o: CMakeFiles/Udacity_AdvancedOOP.dir/flags.make
+CMakeFiles/Udacity_AdvancedOOP.dir/Vehicle.cpp.o: ../Vehicle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Udacity_AdvancedOOP.dir/Vehicle.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Udacity_AdvancedOOP.dir/Vehicle.cpp.o -c /home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/Vehicle.cpp
+
+CMakeFiles/Udacity_AdvancedOOP.dir/Vehicle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Udacity_AdvancedOOP.dir/Vehicle.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/Vehicle.cpp > CMakeFiles/Udacity_AdvancedOOP.dir/Vehicle.cpp.i
+
+CMakeFiles/Udacity_AdvancedOOP.dir/Vehicle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Udacity_AdvancedOOP.dir/Vehicle.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/Vehicle.cpp -o CMakeFiles/Udacity_AdvancedOOP.dir/Vehicle.cpp.s
+
+CMakeFiles/Udacity_AdvancedOOP.dir/Car.cpp.o: CMakeFiles/Udacity_AdvancedOOP.dir/flags.make
+CMakeFiles/Udacity_AdvancedOOP.dir/Car.cpp.o: ../Car.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Udacity_AdvancedOOP.dir/Car.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Udacity_AdvancedOOP.dir/Car.cpp.o -c /home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/Car.cpp
+
+CMakeFiles/Udacity_AdvancedOOP.dir/Car.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Udacity_AdvancedOOP.dir/Car.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/Car.cpp > CMakeFiles/Udacity_AdvancedOOP.dir/Car.cpp.i
+
+CMakeFiles/Udacity_AdvancedOOP.dir/Car.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Udacity_AdvancedOOP.dir/Car.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/Car.cpp -o CMakeFiles/Udacity_AdvancedOOP.dir/Car.cpp.s
+
+CMakeFiles/Udacity_AdvancedOOP.dir/PrivateCar.cpp.o: CMakeFiles/Udacity_AdvancedOOP.dir/flags.make
+CMakeFiles/Udacity_AdvancedOOP.dir/PrivateCar.cpp.o: ../PrivateCar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Udacity_AdvancedOOP.dir/PrivateCar.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Udacity_AdvancedOOP.dir/PrivateCar.cpp.o -c /home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/PrivateCar.cpp
+
+CMakeFiles/Udacity_AdvancedOOP.dir/PrivateCar.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Udacity_AdvancedOOP.dir/PrivateCar.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/PrivateCar.cpp > CMakeFiles/Udacity_AdvancedOOP.dir/PrivateCar.cpp.i
+
+CMakeFiles/Udacity_AdvancedOOP.dir/PrivateCar.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Udacity_AdvancedOOP.dir/PrivateCar.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/PrivateCar.cpp -o CMakeFiles/Udacity_AdvancedOOP.dir/PrivateCar.cpp.s
+
+CMakeFiles/Udacity_AdvancedOOP.dir/FriendCar.cpp.o: CMakeFiles/Udacity_AdvancedOOP.dir/flags.make
+CMakeFiles/Udacity_AdvancedOOP.dir/FriendCar.cpp.o: ../FriendCar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Udacity_AdvancedOOP.dir/FriendCar.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Udacity_AdvancedOOP.dir/FriendCar.cpp.o -c /home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/FriendCar.cpp
+
+CMakeFiles/Udacity_AdvancedOOP.dir/FriendCar.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Udacity_AdvancedOOP.dir/FriendCar.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/FriendCar.cpp > CMakeFiles/Udacity_AdvancedOOP.dir/FriendCar.cpp.i
+
+CMakeFiles/Udacity_AdvancedOOP.dir/FriendCar.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Udacity_AdvancedOOP.dir/FriendCar.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/FriendCar.cpp -o CMakeFiles/Udacity_AdvancedOOP.dir/FriendCar.cpp.s
+
 # Object files for target Udacity_AdvancedOOP
 Udacity_AdvancedOOP_OBJECTS = \
-"CMakeFiles/Udacity_AdvancedOOP.dir/main.cpp.o"
+"CMakeFiles/Udacity_AdvancedOOP.dir/main.cpp.o" \
+"CMakeFiles/Udacity_AdvancedOOP.dir/Vehicle.cpp.o" \
+"CMakeFiles/Udacity_AdvancedOOP.dir/Car.cpp.o" \
+"CMakeFiles/Udacity_AdvancedOOP.dir/PrivateCar.cpp.o" \
+"CMakeFiles/Udacity_AdvancedOOP.dir/FriendCar.cpp.o"
 
 # External object files for target Udacity_AdvancedOOP
 Udacity_AdvancedOOP_EXTERNAL_OBJECTS =
 
 Udacity_AdvancedOOP: CMakeFiles/Udacity_AdvancedOOP.dir/main.cpp.o
+Udacity_AdvancedOOP: CMakeFiles/Udacity_AdvancedOOP.dir/Vehicle.cpp.o
+Udacity_AdvancedOOP: CMakeFiles/Udacity_AdvancedOOP.dir/Car.cpp.o
+Udacity_AdvancedOOP: CMakeFiles/Udacity_AdvancedOOP.dir/PrivateCar.cpp.o
+Udacity_AdvancedOOP: CMakeFiles/Udacity_AdvancedOOP.dir/FriendCar.cpp.o
 Udacity_AdvancedOOP: CMakeFiles/Udacity_AdvancedOOP.dir/build.make
 Udacity_AdvancedOOP: CMakeFiles/Udacity_AdvancedOOP.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Udacity_AdvancedOOP"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Udacity_AdvancedOOP"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Udacity_AdvancedOOP.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

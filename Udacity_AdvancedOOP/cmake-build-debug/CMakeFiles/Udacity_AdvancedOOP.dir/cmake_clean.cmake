@@ -1,4 +1,8 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Udacity_AdvancedOOP.dir/Car.cpp.o"
+  "CMakeFiles/Udacity_AdvancedOOP.dir/FriendCar.cpp.o"
+  "CMakeFiles/Udacity_AdvancedOOP.dir/PrivateCar.cpp.o"
+  "CMakeFiles/Udacity_AdvancedOOP.dir/Vehicle.cpp.o"
   "CMakeFiles/Udacity_AdvancedOOP.dir/main.cpp.o"
   "Udacity_AdvancedOOP"
   "Udacity_AdvancedOOP.pdb"

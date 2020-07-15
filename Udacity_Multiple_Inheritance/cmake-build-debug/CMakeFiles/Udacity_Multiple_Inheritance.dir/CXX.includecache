@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/Animal.h
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/Dog.cpp
+iostream
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/iostream
+Dog.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/Dog.h
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/Dog.h
+Animal.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/Animal.h
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/main.cpp
+iostream
+-
+Animal.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/Animal.h
+Dog.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/Dog.h
+

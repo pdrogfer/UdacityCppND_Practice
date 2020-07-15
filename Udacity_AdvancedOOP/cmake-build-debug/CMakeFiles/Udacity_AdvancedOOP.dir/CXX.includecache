@@ -6,7 +6,39 @@
 
 #IncludeRegexTransform: 
 
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/Car.cpp
+Car.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/Car.h
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/Car.h
+Vehicle.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/Vehicle.h
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/PrivateCar.cpp
+PrivateCar.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/PrivateCar.h
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/PrivateCar.h
+Vehicle.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/Vehicle.h
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/Vehicle.cpp
+Vehicle.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/Vehicle.h
+
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/Vehicle.h
+iostream
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/iostream
+string
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/string
+
 /home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/main.cpp
 iostream
 -
+Vehicle.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/Vehicle.h
+Car.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/Car.h
+PrivateCar.h
+/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_AdvancedOOP/PrivateCar.h
 

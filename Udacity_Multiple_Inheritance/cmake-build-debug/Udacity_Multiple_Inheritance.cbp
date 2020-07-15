@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Udacity_Multiple_Inheritance"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Udacity_Multiple_Inheritance">
+				<Option output="/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Udacity_Multiple_Inheritance" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 Udacity_Multiple_Inheritance"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Udacity_Multiple_Inheritance/fast">
+				<Option output="/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Udacity_Multiple_Inheritance" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 Udacity_Multiple_Inheritance/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/Animal.cpp">
+			<Option target="Udacity_Multiple_Inheritance"/>
+		</Unit>
+		<Unit filename="/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/Animal.h">
+			<Option target="Udacity_Multiple_Inheritance"/>
+		</Unit>
+		<Unit filename="/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/Dog.cpp">
+			<Option target="Udacity_Multiple_Inheritance"/>
+		</Unit>
+		<Unit filename="/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/Dog.h">
+			<Option target="Udacity_Multiple_Inheritance"/>
+		</Unit>
+		<Unit filename="/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/main.cpp">
+			<Option target="Udacity_Multiple_Inheritance"/>
+		</Unit>
+		<Unit filename="/home/pedro/Dev/Pr_Cpp/Udacity/UdacityCppND_Practice/Udacity_Multiple_Inheritance/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

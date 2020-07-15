@@ -123,6 +123,114 @@ Udacity_AdvancedOOP/fast:
 	$(MAKE) -f CMakeFiles/Udacity_AdvancedOOP.dir/build.make CMakeFiles/Udacity_AdvancedOOP.dir/build
 .PHONY : Udacity_AdvancedOOP/fast
 
+Car.o: Car.cpp.o
+
+.PHONY : Car.o
+
+# target to build an object file
+Car.cpp.o:
+	$(MAKE) -f CMakeFiles/Udacity_AdvancedOOP.dir/build.make CMakeFiles/Udacity_AdvancedOOP.dir/Car.cpp.o
+.PHONY : Car.cpp.o
+
+Car.i: Car.cpp.i
+
+.PHONY : Car.i
+
+# target to preprocess a source file
+Car.cpp.i:
+	$(MAKE) -f CMakeFiles/Udacity_AdvancedOOP.dir/build.make CMakeFiles/Udacity_AdvancedOOP.dir/Car.cpp.i
+.PHONY : Car.cpp.i
+
+Car.s: Car.cpp.s
+
+.PHONY : Car.s
+
+# target to generate assembly for a file
+Car.cpp.s:
+	$(MAKE) -f CMakeFiles/Udacity_AdvancedOOP.dir/build.make CMakeFiles/Udacity_AdvancedOOP.dir/Car.cpp.s
+.PHONY : Car.cpp.s
+
+FriendCar.o: FriendCar.cpp.o
+
+.PHONY : FriendCar.o
+
+# target to build an object file
+FriendCar.cpp.o:
+	$(MAKE) -f CMakeFiles/Udacity_AdvancedOOP.dir/build.make CMakeFiles/Udacity_AdvancedOOP.dir/FriendCar.cpp.o
+.PHONY : FriendCar.cpp.o
+
+FriendCar.i: FriendCar.cpp.i
+
+.PHONY : FriendCar.i
+
+# target to preprocess a source file
+FriendCar.cpp.i:
+	$(MAKE) -f CMakeFiles/Udacity_AdvancedOOP.dir/build.make CMakeFiles/Udacity_AdvancedOOP.dir/FriendCar.cpp.i
+.PHONY : FriendCar.cpp.i
+
+FriendCar.s: FriendCar.cpp.s
+
+.PHONY : FriendCar.s
+
+# target to generate assembly for a file
+FriendCar.cpp.s:
+	$(MAKE) -f CMakeFiles/Udacity_AdvancedOOP.dir/build.make CMakeFiles/Udacity_AdvancedOOP.dir/FriendCar.cpp.s
+.PHONY : FriendCar.cpp.s
+
+PrivateCar.o: PrivateCar.cpp.o
+
+.PHONY : PrivateCar.o
+
+# target to build an object file
+PrivateCar.cpp.o:
+	$(MAKE) -f CMakeFiles/Udacity_AdvancedOOP.dir/build.make CMakeFiles/Udacity_AdvancedOOP.dir/PrivateCar.cpp.o
+.PHONY : PrivateCar.cpp.o
+
+PrivateCar.i: PrivateCar.cpp.i
+
+.PHONY : PrivateCar.i
+
+# target to preprocess a source file
+PrivateCar.cpp.i:
+	$(MAKE) -f CMakeFiles/Udacity_AdvancedOOP.dir/build.make CMakeFiles/Udacity_AdvancedOOP.dir/PrivateCar.cpp.i
+.PHONY : PrivateCar.cpp.i
+
+PrivateCar.s: PrivateCar.cpp.s
+
+.PHONY : PrivateCar.s
+
+# target to generate assembly for a file
+PrivateCar.cpp.s:
+	$(MAKE) -f CMakeFiles/Udacity_AdvancedOOP.dir/build.make CMakeFiles/Udacity_AdvancedOOP.dir/PrivateCar.cpp.s
+.PHONY : PrivateCar.cpp.s
+
+Vehicle.o: Vehicle.cpp.o
+
+.PHONY : Vehicle.o
+
+# target to build an object file
+Vehicle.cpp.o:
+	$(MAKE) -f CMakeFiles/Udacity_AdvancedOOP.dir/build.make CMakeFiles/Udacity_AdvancedOOP.dir/Vehicle.cpp.o
+.PHONY : Vehicle.cpp.o
+
+Vehicle.i: Vehicle.cpp.i
+
+.PHONY : Vehicle.i
+
+# target to preprocess a source file
+Vehicle.cpp.i:
+	$(MAKE) -f CMakeFiles/Udacity_AdvancedOOP.dir/build.make CMakeFiles/Udacity_AdvancedOOP.dir/Vehicle.cpp.i
+.PHONY : Vehicle.cpp.i
+
+Vehicle.s: Vehicle.cpp.s
+
+.PHONY : Vehicle.s
+
+# target to generate assembly for a file
+Vehicle.cpp.s:
+	$(MAKE) -f CMakeFiles/Udacity_AdvancedOOP.dir/build.make CMakeFiles/Udacity_AdvancedOOP.dir/Vehicle.cpp.s
+.PHONY : Vehicle.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +267,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Udacity_AdvancedOOP"
+	@echo "... Car.o"
+	@echo "... Car.i"
+	@echo "... Car.s"
+	@echo "... FriendCar.o"
+	@echo "... FriendCar.i"
+	@echo "... FriendCar.s"
+	@echo "... PrivateCar.o"
+	@echo "... PrivateCar.i"
+	@echo "... PrivateCar.s"
+	@echo "... Vehicle.o"
+	@echo "... Vehicle.i"
+	@echo "... Vehicle.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

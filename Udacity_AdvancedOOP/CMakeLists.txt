@@ -3,4 +3,4 @@ project(Udacity_AdvancedOOP)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Udacity_AdvancedOOP main.cpp)
+add_executable(Udacity_AdvancedOOP main.cpp Vehicle.cpp Vehicle.h Car.cpp Car.h PrivateCar.cpp PrivateCar.h)
